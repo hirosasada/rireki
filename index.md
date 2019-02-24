@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hirosasada/rireki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hirosasada/rireki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[ホーム](https://hirosasada.github.io/japanese-home/)> 学歴・職歴    
+  
+**学歴**  
+  
+**2008年	ワシントン大学大学院政治学研究科博士課程修了**   
+- 博士 Ph.D. (政治学)  
+  
+**1999年	カリフォルニア大学サンディエゴ校大学院国際関係太平洋学研究科修士課程修了**  
+- 修士　M.A. (国際関係学)  
+  
+**1997年	カリフォルニア大学バークレー校政治学部卒業**  
+- 学士 B.A. (政治学)  
+  
+**職歴**  
+  
+- **2016年4月～現在	北海道大学大学院メディア・コミュニケーション研究院　准教授**  
+- **2013年4月～2016年3月	北海道大学国際本部留学生センター　准教授**  
+- **2009年4月～2013年3月	立命館大学国際インスティテュート　准教授**  
+- **2007年9月～2009年2月	ワシントン大学ジャクソン国際スクール　リサーチ・アシスタント**  
+- **2005年4月～2007年9月	ワシントン大学政治学部　非常勤講師　（日本政治論、国際政治経済論）**  
+  
