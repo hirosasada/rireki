@@ -1,4 +1,4 @@
-[ホーム](https://hirosasada.github.io/japanese-home/)> 経歴      
+[ホーム](https://hirosasada.github.io/japanese-home/) > 経歴      
   
 ## 学歴 
   
